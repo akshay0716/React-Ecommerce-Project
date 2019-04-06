@@ -1,0 +1,14 @@
+#modal {
+    position: fixed;
+    top:80px;
+    right:0;
+    left:0;
+    background-color:skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+    max-height: 30rem;
+    max-width: 25rem;
+
+}
